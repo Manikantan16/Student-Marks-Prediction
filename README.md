@@ -1,5 +1,5 @@
 # Student-Marks-Prediction
-### This system aims to predict students' marks using linear regression, with the goal of estimating their grades based on the number of hours they study.
+#### This system aims to predict students' marks using linear regression, with the goal of estimating their grades based on the number of hours they study.
  
 # Overview 
 ### Prepare/Load the Student Dataset 
