@@ -1,7 +1,6 @@
 
-![StudMarksPred](https://github.com/user-attachments/assets/52ea91c6-85de-41da-9ba5-699cc414809f)
+# Student-Marks-Prediction ![StudMarksPred](https://github.com/user-attachments/assets/52ea91c6-85de-41da-9ba5-699cc414809f)
 
-# Student-Marks-Prediction
 #### This system aims to predict students' marks using linear regression, with the goal of estimating their grades based on the number of hours they study.
  
 # Overview 
